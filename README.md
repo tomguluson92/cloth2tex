@@ -8,9 +8,9 @@
   
   <div class="is-size-5 publication-authors">
     <span class="author-block">
-        <a href="">Daiheng Gao*</a><sup>1</sup>,</span>
+        <a href="">Daiheng Gao</a><sup>1</sup>,</span>
     <span class="author-block">
-        <a href="">Xu Chen*</a><sup>2,3</sup>,</span>
+        <a href="">Xu Chen</a><sup>2,3</sup>,</span>
     <span class="author-block">
         <a href="">Xindi Zhang</a><sup>1</sup>,
     </span>
@@ -36,7 +36,6 @@
     <span class="author-block"><sup>3</sup>Max Planck Institute for Intelligent Systems,</span>
     <span class="author-block"><sup>4</sup>The University of Texas at Austin</span>
     </div>
-    <sup>*</sup> denotes equal contribution
     </div>
 
 
