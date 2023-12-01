@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On</h1>
-  <h2 align="center">3DV 2024</h2>
+  <h2 align="center">3DV 2024 (Deprecated, please check https://github.com/HumanAIGC/Cloth2Tex)</h2>
   <div align="center">
     <img src="./imgs/teaser.png" alt="Logo" width="100%">
   </div>
